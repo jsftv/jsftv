@@ -113,7 +113,7 @@ PS3 controller but it'd be pointless for me to change the HTML for
 something as pedantic as a name. */
 .custom .quadrant{
     position: absolute;
-    background: url(ps3-assets/player-n.png);
+    background: url(https://imgur.com/gallery/fRI8ZZn);
     height: 17px;
     width: 111px;
     top: 140px;
@@ -145,7 +145,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    background: url(ps3-assets/menus.png);
+    background: url(https://imgur.com/gallery/K8Qea2n);
     width: 34px;
     height: 19px;
 }
@@ -175,7 +175,7 @@ start and select buttons. */
     position: absolute;
     width:62px;
     height:62px;
-    background: url(ps3-assets/face-buttons.png);
+    background: url(https://imgur.com/gallery/0NkdJU4);
 }
 .custom .button.pressed{
     background-position-y: -64px;
@@ -211,7 +211,7 @@ the CSS inline. */
 }
 .custom .stick{
     position: absolute;
-    background: url(ps3-assets/thumbs.png);
+    background: url(https://imgur.com/gallery/H9m67aJ);
     height:105px;
     width: 105px;
 }
@@ -238,7 +238,7 @@ the CSS inline. */
     left: 74px;
 }
 .custom .face{
-    background: url(ps3-assets/dpad.png);
+    background: url(https://imgur.com/gallery/LZtTdGO);
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
